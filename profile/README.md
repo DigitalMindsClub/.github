@@ -87,7 +87,7 @@ Digital Minds Club operates under the governance of:
 
 - **GitHub Organization**: [@DigitalMindsClub](https://github.com/organizations/DigitalMindsClub/)
 - **University**: [Zimbabwe Open University](https://zou.ac.zw)
-- **Email**: [Contact through ZOU channels]
+- **Email**: info@dubzig.co.zw
 
 ## 📜 Constitution & Policies
 
